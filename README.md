@@ -1,5 +1,7 @@
 # E-commerce Recommendation System
 
+## (Under Development)
+
 ### Project Description
 
 This project is a full-stack application that demonstrates the development of an AI-based product recommendation system for an e-commerce platform. The system uses the **Collaborative Filtering** method to analyze user behavior and provide personalized, relevant product recommendations.
