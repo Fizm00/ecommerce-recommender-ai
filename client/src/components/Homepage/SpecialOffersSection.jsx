@@ -60,7 +60,6 @@ const SpecialOffersSection = () => {
 
     return (
         <section className="py-16 bg-gradient-to-br from-gray-50 via-indigo-50 to-purple-50 relative overflow-hidden">
-            {/* Background decoration */}
             <div className="absolute inset-0 opacity-10">
                 <div className="absolute -top-24 -right-24 w-96 h-96 bg-gradient-to-br from-indigo-400 to-purple-600 rounded-full blur-3xl"></div>
                 <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-gradient-to-br from-purple-400 to-indigo-600 rounded-full blur-3xl"></div>
@@ -79,7 +78,6 @@ const SpecialOffersSection = () => {
                         Dapatkan diskon fantastis untuk produk pilihan. Terbatas waktu!
                     </p>
 
-                    {/* Countdown Timer */}
                     <div className="flex justify-center items-center space-x-4 mb-8">
                         <FaClock className="text-2xl text-indigo-600" />
                         <div className="flex space-x-2">

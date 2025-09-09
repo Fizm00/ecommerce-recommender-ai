@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { FaChevronLeft, FaChevronRight } from 'react-icons/fa';
-import ProductCard from './Productcard'; 
+import ProductCard from './ProductCard'; 
 import { motion, AnimatePresence } from 'framer-motion';
 
 // nanti ambil dari API/backend

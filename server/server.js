@@ -24,7 +24,7 @@ app.get("/", (req, res) => {
   res.send("Hello from the Backend!");
 });
 
-// Jalankan server
+// buat jalanin server
 app.listen(port, () => {
   console.log(`Server is running on port: ${port}`);
 });
