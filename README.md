@@ -60,8 +60,8 @@ Follow these steps to get the project up and running locally:
 1.  **Clone the Repository**
 
     ```bash
-    git clone [https://github.com/your-username/your-project-name.git](https://github.com/your-username/your-project-name.git)
-    cd your-project-name
+    git clone [https://github.com/Fizm00/ecommerce-recommender-ai.git](https://github.com/Fizm00/ecommerce-recommender-ai.git)
+    cd ecommerce-recommender-ai
     ```
 
 2.  **Backend Setup**
