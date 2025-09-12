@@ -103,9 +103,3 @@ Follow these steps to get the project up and running locally:
     The application will now be running at `http://localhost:5173`.
 
 ---
-
-### Contact
-
-- **Name**: [Your Full Name]
-- **GitHub**: [Link to your GitHub Profile]
-- **LinkedIn**: [Link to your LinkedIn Profile]
